@@ -1,6 +1,6 @@
 ### AMALGAMA
 
-1. Clonar el proyecto `git clone git@gitlab.com:juanblariza/amalgama.git`
+1. Clonar el proyecto `git clone git@github.com:jcwirko/amalgama.git`
 2. Ejecutar `php -S localhost:8000 -t public`
 3. Ejecutar en el navegador: `http://localhost:8000/`
 
