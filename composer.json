@@ -1,0 +1,18 @@
+{
+  "name": "amalgama/juanblariza",
+  "description": "Technical test",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "juanblariza",
+      "email": "juanblariza@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Amalgama\\": "src/"
+    }
+  }
+}
